@@ -1,0 +1,11 @@
+D:\Visual Basic\vs_2010\EmpInfo\EmpInfo\bin\Debug\EmpInfo.exe
+D:\Visual Basic\vs_2010\EmpInfo\EmpInfo\bin\Debug\EmpInfo.pdb
+D:\Visual Basic\vs_2010\EmpInfo\EmpInfo\bin\Debug\EmpInfo.xml
+D:\Visual Basic\vs_2010\EmpInfo\EmpInfo\obj\x86\Debug\EmpInfo.Form1.resources
+D:\Visual Basic\vs_2010\EmpInfo\EmpInfo\obj\x86\Debug\EmpInfo.Resources.resources
+D:\Visual Basic\vs_2010\EmpInfo\EmpInfo\obj\x86\Debug\EmpInfo.vbproj.GenerateResource.Cache
+D:\Visual Basic\vs_2010\EmpInfo\EmpInfo\obj\x86\Debug\EmpInfo.exe
+D:\Visual Basic\vs_2010\EmpInfo\EmpInfo\obj\x86\Debug\EmpInfo.xml
+D:\Visual Basic\vs_2010\EmpInfo\EmpInfo\obj\x86\Debug\EmpInfo.pdb
+D:\Visual Basic\vs_2010\EmpInfo\EmpInfo\bin\Debug\Database1.mdf
+D:\Visual Basic\vs_2010\EmpInfo\EmpInfo\bin\Debug\Database1_log.ldf
