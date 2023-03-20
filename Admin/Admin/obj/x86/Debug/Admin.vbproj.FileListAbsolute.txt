@@ -1,0 +1,11 @@
+D:\Visual Basic\vs_2010\Admin\Admin\bin\Debug\Admin.mdf
+D:\Visual Basic\vs_2010\Admin\Admin\bin\Debug\Admin_log.ldf
+D:\Visual Basic\vs_2010\Admin\Admin\bin\Debug\Admin.exe
+D:\Visual Basic\vs_2010\Admin\Admin\bin\Debug\Admin.pdb
+D:\Visual Basic\vs_2010\Admin\Admin\bin\Debug\Admin.xml
+D:\Visual Basic\vs_2010\Admin\Admin\obj\x86\Debug\Admin.Form1.resources
+D:\Visual Basic\vs_2010\Admin\Admin\obj\x86\Debug\Admin.Resources.resources
+D:\Visual Basic\vs_2010\Admin\Admin\obj\x86\Debug\Admin.vbproj.GenerateResource.Cache
+D:\Visual Basic\vs_2010\Admin\Admin\obj\x86\Debug\Admin.exe
+D:\Visual Basic\vs_2010\Admin\Admin\obj\x86\Debug\Admin.xml
+D:\Visual Basic\vs_2010\Admin\Admin\obj\x86\Debug\Admin.pdb
